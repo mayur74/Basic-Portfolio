@@ -1,2 +1,1 @@
-This is the Basic Portfolio using html css js 
-heres is the link to check out - 
+Check out Here --  https://mayur74.github.io/Basic-Portfolio/
